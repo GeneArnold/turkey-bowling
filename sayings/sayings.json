@@ -1,0 +1,50 @@
+{
+  "_note": "The turkey's lines, said at random after a throw: \"strike\", \"turkey\" (three strikes in a row), \"spare\", \"some\" (a few pins), \"none\" (missed them all) and \"gutter\" (into the hedge). \"gentle\" shows for a swipe too soft to count; \"trash\" is for sharing a score, with {score} filled in. \"id\" names the voice clip, sayings/voices/v0/<id>.mp3, made by tools/make-voices.mjs.",
+  "strike": [
+    { "id": "strike-3", "text": "Gobble gobble, BOOM!", "voices": ["v0"] },
+    { "id": "strike-6", "text": "Who's the bird now?!", "voices": ["v0"] },
+    { "id": "strike-7", "text": "Drumroll... DRUMSTICK!", "voices": ["v0"] },
+    { "id": "strike-8", "text": "Feathers: one. Pins: zero!", "voices": ["v0"] },
+    { "id": "strike-9", "text": "That's how we roll on Thanksgiving!", "voices": ["v0"] }
+  ],
+  "turkey": [
+    { "id": "turkey-1", "text": "TURKEY! Gobble gobble gobble!", "voices": ["v0"] },
+    { "id": "turkey-2", "text": "Three in a row! That's me!", "voices": ["v0"] }
+  ],
+  "spare": [
+    { "id": "spare-3", "text": "Second helpings!", "voices": ["v0"] },
+    { "id": "spare-4", "text": "Leftovers? Cleaned up!", "voices": ["v0"] },
+    { "id": "spare-5", "text": "Gobbled up the rest!", "voices": ["v0"] }
+  ],
+  "some": [
+    { "id": "some-7", "text": "I'm seeing stuffing!", "voices": ["v0"] },
+    { "id": "some-8", "text": "Ow. My wishbone.", "voices": ["v0"] },
+    { "id": "some-9", "text": "My feathers are all ruffled!", "voices": ["v0"] },
+    { "id": "some-10", "text": "Is it dinner time already?", "voices": ["v0"] },
+    { "id": "some-11", "text": "Gobble... ow... gobble.", "voices": ["v0"] },
+    { "id": "some-12", "text": "I need a nap. And a gravy.", "voices": ["v0"] }
+  ],
+  "none": [
+    { "id": "none-4", "text": "Did I hit anything? Anything?", "voices": ["v0"] },
+    { "id": "none-5", "text": "I was aiming for the pie.", "voices": ["v0"] },
+    { "id": "none-6", "text": "Bird's eye view? More like bird's miss view.", "voices": ["v0"] }
+  ],
+  "gutter": [
+    { "id": "gutter-1", "text": "Gobble... oops.", "voices": ["v0"] },
+    { "id": "gutter-2", "text": "Not the bushes!", "voices": ["v0"] },
+    { "id": "gutter-3", "text": "I meant to do that.", "voices": ["v0"] },
+    { "id": "gutter-4", "text": "Ow, prickly!", "voices": ["v0"] },
+    { "id": "gutter-5", "text": "Gutter gobbler!", "voices": ["v0"] }
+  ],
+  "gentle": [
+    { "id": "gentle-1", "text": "Harder! I'm not a feather!" },
+    { "id": "gentle-2", "text": "Give it some gravy!" },
+    { "id": "gentle-3", "text": "Swipe faster!" }
+  ],
+  "trash": [
+    { "id": "trash-1", "text": "I just bowled {score} with a TURKEY. Your move." },
+    { "id": "trash-3", "text": "Gobble gobble, I bowled {score}. Beat that, drumstick." },
+    { "id": "trash-5", "text": "{score}! This turkey rolls. Can yours?" },
+    { "id": "trash-6", "text": "Bowled {score} with a turkey. Pass the gravy and your best shot." }
+  ]
+}

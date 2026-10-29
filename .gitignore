@@ -1,0 +1,6 @@
+dist/
+sayings/voices/.raw.wav
+sayings/voice-samples/
+node_modules/
+.DS_Store
+art/source/
